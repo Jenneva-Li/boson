@@ -16,7 +16,7 @@ https://github.com/user-attachments/assets/7559764c-d700-4635-8cfa-1816c4d049d0
 * **VR gloves:** The VR glove concept aims to replace traditional VR controllers with gloves that allow users to interact with virtual environments through natural hand movements. This design includes creating CAD models for gloves of various sizes to ensure a comfortable fit for different hand sizes, incorporating sensors and actuators to capture and translate hand movements accurately. Below is a CAD model of the index finger, which is a component of the glove. Due to confidentiality, the complete official CAD model of the glove cannot be disclosed until its official release.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a04c62d2-bada-488a-bcaa-3ac9022fffbb" alt="WIRE index finger back view" width="350px">
+  <img src="https://github.com/user-attachments/assets/a0ca1040-fabd-4c9d-831e-3acffe44334b" alt="WIRE index finger back view" width="200px">
 </p>
 
 
